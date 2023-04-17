@@ -1,0 +1,17 @@
+a.	What is one thing that you learned while doing this assignment?
+        I learned how to import a database and use it in SQL/SQLite. I'm very new
+        at SQL/SQLite and wasn't familiar with the setup of importing a data file in a remote server
+        and it took me almost an hour and a half to figure out how to do it properly. Now,
+        I know in the future how to import the data and it won't take me almost 2 hours every time. 
+
+b.	What is one thing that surprised you while doing this assignment?
+        I was surprised at how specific you can get with large amounts of data. You can be 
+        very picky with what and how you want everything sorted, even with a bunch of columns and 
+        data pieces. I expected this homework to be simpler due to the size of the data, but I was 
+        proven wrong.
+
+c.	What is one question that you still have after doing this assignment?
+        Do you always need a where clause even when it seems like you don't need one?
+        I was unsure for problem 3 if I needed a where or not since both seemed logical, but yet
+        both gave me different results. I trusted my gut and included the where clause but I was unsure 
+        if you always need one.
